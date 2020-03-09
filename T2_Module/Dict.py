@@ -75,11 +75,23 @@ furnished.''',
 }
 
 dict_of_location = {
-    'home': 'There is no place like home'
+    'home': 'There is no place like home',
+    'farm': 'Ready to work',
+    'store': 'Pierre (the shop-keep) greets you warmly',
+}
+
+dict_of_first_visit = {
 }
 
 dict_of_inspection = {
     'home': {
+        'home': '',
         'bedroom': 'A cozy bed room carpeted with a soft red rug.'
     }
     }
+
+dict_of_purchases = {
+    'store': {
+        'potato seeds': 1
+    }
+}

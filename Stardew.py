@@ -24,7 +24,7 @@ def engine(player):
             player1.name = char_create[0]
             player1.farm_name = char_create[1]
             player1.imp = Bones.input_parser(player1.farm_name)
-            act_output = Bones.interpreter(player1.imp)
+            act_output = Bones.interpreter(player1.imp, player1.location, player1.wallet)
             player1.wallet = act_output[0]
             player1.location = act_output[1]
         except TypeError:

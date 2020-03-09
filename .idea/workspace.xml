@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c69aa29f-b99f-46a8-9301-eb9074e8b88a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/New_Stardew.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/New_Stardew.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/AlexR.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/AlexR.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Stardew.py" beforeDir="false" afterPath="$PROJECT_DIR$/Stardew.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2_Module/Bones.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2_Module/Bones.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/T2_Module/Dict.py" beforeDir="false" afterPath="$PROJECT_DIR$/T2_Module/Dict.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
